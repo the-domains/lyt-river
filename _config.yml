@@ -6,9 +6,9 @@ color:
   saturation: 0.052562621887773275
   rhythmicContrast: 0.589383652433753
   brandColors:
-    - '#FFFFFF'
-    - '#616161'
-    - '#C2C2C2'
-    - '#292929'
-    - '#1DC1C5'
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
 name: LYT River
