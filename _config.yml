@@ -1,0 +1,14 @@
+layout_spectrum: 0.6868549550417811
+typography_spectrum: 0.9440165441483259
+color:
+  brandStrength: 0.7884685462340713
+  lightness: 0.32706644176505506
+  saturation: 0.052562621887773275
+  rhythmicContrast: 0.589383652433753
+  brandColors:
+    - '#FFFFFF'
+    - '#616161'
+    - '#C2C2C2'
+    - '#292929'
+    - '#1DC1C5'
+name: LYT River
